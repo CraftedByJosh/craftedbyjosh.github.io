@@ -1,7 +1,7 @@
 ---
 title: First Post
 description: The first post on this blog.
-date: 2021-01-05 # (optional) format: YYYY-MM-DD
+date: 2025-01-05 # (optional) format: YYYY-MM-DD
 tldr: I will be attempting to blog here about DevOps and some of the project and learning I have done # (optional)
 # draft: false # (optional) true/false
 tags: [updates] # (optional)
